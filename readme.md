@@ -1,11 +1,7 @@
 Sheno DB Manifesto:
 
-Sheno DB is a rust-based database project which aims to address modularity concerns of traditional
-relational databases.
-
-It believes that by breaking down the traditional monolithic architecture of databases into smaller, more focused modules, it can increase the overall reliability extensibility and scalability of database systems. 
-
-For Sheno to be the next-generation database for the modern era, it should address the following concerns:
+Sheno DB is a database project which aims to address modularity concerns of traditional
+relational databases. It believes that by breaking down the traditional monolithic architecture of databases into smaller, more focused modules, it can increase the overall reliability extensibility and scalability of database systems. For Sheno to be the next-generation database for the modern era, it should address the following concerns:
 
 - Modularity: 
   - Pluggable storage mechanisms (choose RAM, disk or even a google sheet)
